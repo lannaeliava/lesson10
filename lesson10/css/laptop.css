@@ -1,0 +1,19 @@
+/* 1439-769 */
+@media (max-width: 1300px){
+    /* header */
+    header {
+        padding:18px 35px ;
+    }
+}
+ 
+@media (max-width: 834px){
+    /* header */
+    header {
+        padding:18px 30px ;
+    }
+}
+
+/* section 1 */
+ .section1{
+    height: 560px;
+ }
